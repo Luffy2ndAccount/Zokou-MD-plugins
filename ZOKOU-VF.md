@@ -1,5 +1,5 @@
 
-<h1 align="center"> ZOKOU-2.0 plugins </h1>
+<h1 align="center"> ZOKOU-2.0 Version-Française-plugins </h1>
 <div align="center">
 <br /> 
 ---
