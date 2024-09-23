@@ -15,7 +15,7 @@ Upload image on imgur and get a link
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2931/raw/9eebc434c34c1b83f2b3ff55171a523d5728068b/imgurVE.js
 ```
-- Auteur : Zokou-devs
+- Author : Zokou-devs
 ---
 
 
@@ -26,5 +26,5 @@ https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217654/raw/5ec7c483d986eb6a79a82ec6297d32371cafb808/logopackVE.js
 ```
-- Auteur : Zokou-devs
+- Author : Zokou-devs
 ---
