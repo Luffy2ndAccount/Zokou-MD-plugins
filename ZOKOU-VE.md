@@ -17,3 +17,14 @@ https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2
 ```
 - Auteur : Zokou-devs
 ---
+
+
+
+<h4 align="center"> LogoPack </h1>
+
+20 new Logo
+```
+https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217654/raw/5ec7c483d986eb6a79a82ec6297d32371cafb808/logopackVE.js
+```
+- Auteur : Zokou-devs
+---
