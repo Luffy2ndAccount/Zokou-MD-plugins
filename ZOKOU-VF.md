@@ -34,7 +34,7 @@ https://gist.githubusercontent.com/Luffy2ndAccount/17faf5b222e554726961e8a0d6b5b
 
   sportifydl et sportifysearch
 ```
-https://gist.github.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js
+https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js
 ```
 - Auteur : Zokou-devs
 ---
