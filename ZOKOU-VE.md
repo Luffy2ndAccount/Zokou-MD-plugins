@@ -28,3 +28,14 @@ https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217
 ```
 - Author : Zokou-devs
 ---
+
+
+
+<h4 align="center"> Sportify </h1>
+
+ sportifydl and sportifysearch
+```
+https://gist.github.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf7f8/raw/42ce7f7792432b8616236286bd818ad131ded76f/sportifyVE.js
+```
+- Author : Zokou-devs
+---
