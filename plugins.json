@@ -1,0 +1,47 @@
+{
+    
+    "pluginsVF": [
+        {
+            "name": "Imgur",
+            "desc": "Uploader des images sur imgur et obtenir des liens en echanges",
+            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/d7c2280305738a6f9a6c2c60b1bab8f9/raw/2af46631ae25eed65044311b3065c0100dac7e85/imgurVF.js",
+            "author": "Zokou-devs"
+          },
+          {
+            "name": "LogoPack",
+            "desc": "20 nouveaux logos",
+            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/17faf5b222e554726961e8a0d6b5be72/raw/105db19b22d64d0837a5c3ac87d0eba518b1766a/logopackVF.js",
+            "author": "Zokou-devs"
+          },
+          {
+            "name": "Sportify",
+            "desc": "sportifydl et sportifysearch",
+            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js",
+            "author": "Zokou-devs"
+          }
+    ]
+    
+    ,
+
+
+    "pluginsVE": [
+        {
+            "name": "Imgur",
+            "desc": "Upload image on imgur and get a link",
+            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2931/raw/9eebc434c34c1b83f2b3ff55171a523d5728068b/imgurVE.js",
+            "author" : "Zokou-Devs"
+        },
+        {
+            "name": "LogoPack",
+            "desc": "20 new Logo",
+            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217654/raw/5ec7c483d986eb6a79a82ec6297d32371cafb808/logopackVE.js",
+            "author" : "Zokou-Devs"
+        },
+        {
+            "name": "Sportify",
+            "desc": "sportifydl and sportifysearch",
+            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf7f8/raw/42ce7f7792432b8616236286bd818ad131ded76f/sportifyVE.js",
+            "author" : "Zokou-Devs"
+        }
+    ]
+}
