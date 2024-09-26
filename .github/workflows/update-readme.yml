@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add README.md
+          git add node_modules/zokou-md-plugins-repo
           git commit -m "Update README.md"
           git push
