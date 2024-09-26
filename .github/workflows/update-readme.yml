@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Generate README
-        run: node generateReadme.js
+        run: node index.js
 
       - name: Commit README
         run: |
