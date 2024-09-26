@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add .
+          git add ZOKOU-VE.md README.md ZOKOU-VF.md
           git commit -m "Update plugins"
           git push
