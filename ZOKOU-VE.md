@@ -39,3 +39,14 @@ https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf
 ```
 - Author : Zokou-Devs
 ---
+
+
+<h4 align="center"> aAipack </h1>
+
+  Description : Includes most of actuall Ai commands
+
+```
+https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6d1e/raw/56cdabd35c821d87a6bcedb1ff934faf08ec5a0f/aipackVE.js
+```
+- Author : Zokou-devs
+---
