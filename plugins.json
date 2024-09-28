@@ -18,6 +18,12 @@
             "desc": "sportifydl et sportifysearch",
             "url": "https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js",
             "author": "Zokou-devs"
+          },
+          {
+            "name" : "aAipack",
+            "desc" : "Contient des commandes se servant de divers inteligence artificelles",
+            "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb477/raw/5d5302dcfcc5b628984247a97104cba7ac782ff6/aipackVF.js",
+            "author" : "Zokou-devs"
           }
     ]
     
@@ -42,6 +48,12 @@
             "desc": "sportifydl and sportifysearch",
             "url": "https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf7f8/raw/42ce7f7792432b8616236286bd818ad131ded76f/sportifyVE.js",
             "author" : "Zokou-Devs"
-        }
+        },
+          {
+            "name" : "aAipack",
+            "desc" : "Includes most of actuall Ai commands",
+            "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6d1e/raw/56cdabd35c821d87a6bcedb1ff934faf08ec5a0f/aipackVE.js",
+            "author" : "Zokou-devs"
+          }
     ]
 }
