@@ -10,7 +10,7 @@
 
 <h4 align="center"> Imgur </h1>
 
-  Description : Uploader des images sur imgur et obtenir des liens en echanges
+  Description : Uploader des images sur imgur et obtenir leurs liens
 
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/d7c2280305738a6f9a6c2c60b1bab8f9/raw/2af46631ae25eed65044311b3065c0100dac7e85/imgurVF.js
@@ -49,4 +49,15 @@ https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded35
 https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb477/raw/5d5302dcfcc5b628984247a97104cba7ac782ff6/aipackVF.js
 ```
 - Auteur : Zokou-devs
+---
+
+
+<h4 align="center"> Catbox </h1>
+
+  Description : Uploader des images , video , audio sur catbox et obtenir leurs liens
+
+```
+https://gist.githubusercontent.com/Luffy2ndAccount/e74747543efc88c5f027b350fd644034/raw/c3bf520f9f25bd08f8915ae28a39f62edf3d8a71/catboxVF.js
+```
+- Auteur : Zokou-Devs
 ---
