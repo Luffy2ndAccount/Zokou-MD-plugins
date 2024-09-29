@@ -1,59 +1,66 @@
 {
-    
-    "pluginsVF": [
-        {
-            "name": "Imgur",
-            "desc": "Uploader des images sur imgur et obtenir des liens en echanges",
-            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/d7c2280305738a6f9a6c2c60b1bab8f9/raw/2af46631ae25eed65044311b3065c0100dac7e85/imgurVF.js",
-            "author": "Zokou-devs"
-          },
-          {
-            "name": "LogoPack",
-            "desc": "20 nouveaux logos",
-            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/17faf5b222e554726961e8a0d6b5be72/raw/105db19b22d64d0837a5c3ac87d0eba518b1766a/logopackVF.js",
-            "author": "Zokou-devs"
-          },
-          {
-            "name": "Sportify",
-            "desc": "sportifydl et sportifysearch",
-            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js",
-            "author": "Zokou-devs"
-          },
-          {
-            "name" : "aAipack",
-            "desc" : "Contient des commandes se servant de divers inteligence artificelles",
-            "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb477/raw/5d5302dcfcc5b628984247a97104cba7ac782ff6/aipackVF.js",
-            "author" : "Zokou-devs"
-          }
-    ]
-    
-    ,
-
-
-    "pluginsVE": [
-        {
-            "name": "Imgur",
-            "desc": "Upload image on imgur and get a link",
-            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2931/raw/9eebc434c34c1b83f2b3ff55171a523d5728068b/imgurVE.js",
-            "author" : "Zokou-Devs"
-        },
-        {
-            "name": "LogoPack",
-            "desc": "20 new Logo",
-            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217654/raw/5ec7c483d986eb6a79a82ec6297d32371cafb808/logopackVE.js",
-            "author" : "Zokou-Devs"
-        },
-        {
-            "name": "Sportify",
-            "desc": "sportifydl and sportifysearch",
-            "url": "https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf7f8/raw/42ce7f7792432b8616236286bd818ad131ded76f/sportifyVE.js",
-            "author" : "Zokou-Devs"
-        },
-          {
-            "name" : "aAipack",
-            "desc" : "Includes most of actuall Ai commands",
-            "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6d1e/raw/56cdabd35c821d87a6bcedb1ff934faf08ec5a0f/aipackVE.js",
-            "author" : "Zokou-devs"
-          }
-    ]
+  "pluginsVF": [
+    {
+      "name": "Imgur",
+      "desc": "Uploader des images sur imgur et obtenir leurs liens",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/d7c2280305738a6f9a6c2c60b1bab8f9/raw/2af46631ae25eed65044311b3065c0100dac7e85/imgurVF.js",
+      "author": "Zokou-devs"
+    },
+    {
+      "name": "LogoPack",
+      "desc": "20 nouveaux logos",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/17faf5b222e554726961e8a0d6b5be72/raw/105db19b22d64d0837a5c3ac87d0eba518b1766a/logopackVF.js",
+      "author": "Zokou-devs"
+    },
+    {
+      "name": "Sportify",
+      "desc": "sportifydl et sportifysearch",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js",
+      "author": "Zokou-devs"
+    },
+    {
+      "name": "aAipack",
+      "desc": "Contient des commandes se servant de divers inteligence artificelles",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb477/raw/5d5302dcfcc5b628984247a97104cba7ac782ff6/aipackVF.js",
+      "author": "Zokou-devs"
+    },
+    {
+      "name": "Catbox",
+      "desc": "Uploader des images , video , audio sur catbox et obtenir leurs liens",
+      "author": "Zokou-Devs",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/e74747543efc88c5f027b350fd644034/raw/c3bf520f9f25bd08f8915ae28a39f62edf3d8a71/catboxVF.js"
+    }
+  ],
+  "pluginsVE": [
+    {
+      "name": "Imgur",
+      "desc": "Upload image on imgur and get a link",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2931/raw/9eebc434c34c1b83f2b3ff55171a523d5728068b/imgurVE.js",
+      "author": "Zokou-Devs"
+    },
+    {
+      "name": "LogoPack",
+      "desc": "20 new Logo",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217654/raw/5ec7c483d986eb6a79a82ec6297d32371cafb808/logopackVE.js",
+      "author": "Zokou-Devs"
+    },
+    {
+      "name": "Sportify",
+      "desc": "sportifydl and sportifysearch",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf7f8/raw/42ce7f7792432b8616236286bd818ad131ded76f/sportifyVE.js",
+      "author": "Zokou-Devs"
+    },
+    {
+      "name": "aAipack",
+      "desc": "Includes most of actual Ai commands",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6d1e/raw/56cdabd35c821d87a6bcedb1ff934faf08ec5a0f/aipackVE.js",
+      "author": "Zokou-devs"
+    },
+    {
+      "name": "Catbox",
+      "desc": "Upload  image , video and audio on catbox and get a link",
+      "author": "Zokou-Devs",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/d17e8434d5dbf330cc603a0f60d91c5a/raw/6fc3951b624e956c0af74013f1023d3ac387f338/catboxVE.js"
+    }
+  ]
 }
