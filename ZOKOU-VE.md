@@ -43,10 +43,21 @@ https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf
 
 <h4 align="center"> aAipack </h1>
 
-  Description : Includes most of actuall Ai commands
+  Description : Includes most of actual Ai commands
 
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6d1e/raw/56cdabd35c821d87a6bcedb1ff934faf08ec5a0f/aipackVE.js
 ```
 - Author : Zokou-devs
+---
+
+
+<h4 align="center"> Catbox </h1>
+
+  Description : Upload  image , video and audio on catbox and get a link
+
+```
+https://gist.githubusercontent.com/Luffy2ndAccount/d17e8434d5dbf330cc603a0f60d91c5a/raw/6fc3951b624e956c0af74013f1023d3ac387f338/catboxVE.js
+```
+- Author : Zokou-Devs
 ---
