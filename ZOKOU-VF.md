@@ -39,3 +39,14 @@ https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded35
 ```
 - Auteur : Zokou-devs
 ---
+
+
+<h4 align="center"> aAipack </h1>
+
+  Description : Contient des commandes se servant de divers inteligence artificelles
+
+```
+https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb477/raw/5d5302dcfcc5b628984247a97104cba7ac782ff6/aipackVF.js
+```
+- Auteur : Zokou-devs
+---
