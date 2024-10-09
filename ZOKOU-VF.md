@@ -63,6 +63,17 @@ https://gist.githubusercontent.com/Luffy2ndAccount/e74747543efc88c5f027b350fd644
 ---
 
 
+<h4 align="center"> FAMOUS_PACK1 </h1>
+
+  Description : Un super pack de plugins préparer pour vous
+
+```
+https://gist.githubusercontent.com/Famous-Tech/5da335a245c92e6e3c5283da5cbecbe9/raw/f0a263e7e5f12803ac7b00e1c6aa6af9525e9796/FAMOUS-TECH_PLUGINS.js
+```
+- Auteur : FAMOUS-TECH
+---
+
+
 <h4 align="center"> Fullpp </h1>
 
   Description : Vous permets de mettre une image en taille reel sur votre photo de profile , et vos groupes whatsapp
