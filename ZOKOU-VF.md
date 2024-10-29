@@ -83,3 +83,47 @@ https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509
 ```
 - Auteur : Zokou-Devs
 ---
+
+
+<h4 align="center"> Tictactoe </h1>
+
+  Description : Jouer aux Jeux Tic-tac-toe (ttt)
+
+```
+https://gist.githubusercontent.com/Nignanfatao/9cfee3f9fcdb347d5a775120fd83223d/raw/d4866966e9a450ba654b98562e56f4df2a2752e6/ttt.js
+```
+- Auteur : Ainz
+---
+
+
+<h4 align="center"> pint&pintdl </h1>
+
+  Description : Télécharger des images pinterest
+
+```
+https://gist.githubusercontent.com/Nignanfatao/e964be9b08cd424cca76a85f4ced36d5/raw/d5a6ca19449fb672692b8186f8d5da8c2fc0e226/pinterest_&_pinterest_dl.js
+```
+- Auteur : Ainz
+---
+
+
+<h4 align="center"> groupe_adm </h1>
+
+  Description : quelques plugins pour la gestions des groupes
+
+```
+https://gist.githubusercontent.com/Nignanfatao/93fd7adda0b7651f5535a653cb573eef/raw/2d1a7136b81a72d2bee69e9903ce51583dc207e3/groupe_new_pg.js
+```
+- Auteur : Ainz
+---
+
+
+<h4 align="center"> other_pg </h1>
+
+  Description : nouvelles commandes
+
+```
+https://gist.githubusercontent.com/Nignanfatao/482680cb66f6a84f5c0578bc4b5bb9a5/raw/f6237b2f1ff563e1e6d969a36c1500e9b0381785/Other_plugin.js
+```
+- Auteur : Ainz
+---
