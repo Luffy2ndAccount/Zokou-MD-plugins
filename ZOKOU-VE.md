@@ -72,3 +72,14 @@ https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9
 ```
 - Author : Zokou-Devs
 ---
+
+
+<h4 align="center"> tubidy Downloader </h1>
+
+  Description : Download videos and audios from tubidy
+
+```
+https://gist.githubusercontent.com/Luffy2ndAccount/b719ae5240bc4cd2d8082aea7b0bbb91/raw/349b691f8f2961ffac87e11ffd655158f87e87e0/tubidyVE.js
+```
+- Author : Zokou-Devs
+---
