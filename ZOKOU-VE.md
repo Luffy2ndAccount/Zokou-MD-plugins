@@ -61,3 +61,14 @@ https://gist.githubusercontent.com/Luffy2ndAccount/d17e8434d5dbf330cc603a0f60d91
 ```
 - Author : Zokou-Devs
 ---
+
+
+<h4 align="center"> Fullpp </h1>
+
+  Description : Put a not-cropped image on your whatsapp profil or group pic
+
+```
+https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/f50fff6ce738190d85643806a84c6fda0502959c/fullppVE.js
+```
+- Author : Zokou-Devs
+---
