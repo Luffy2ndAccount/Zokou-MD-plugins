@@ -35,6 +35,12 @@
       "desc": "Vous permets de mettre une image en taille reel sur votre photo de profile , et vos groupes whatsapp",
       "author": "Zokou-Devs",
       "url": "https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509e2c/raw/1b8285bf22963be908b6403295858180184d6f90/fullppVF.js"
+    },
+    {
+      "name": "tubidy Downloader",
+      "desc" : "Telechargement des videos et audios depuis tubidy",
+      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/8dedc7901b9b2b1292c18da23477cab5/raw/1e9cf4e2d108087ca1081e823916c372cc918220/tubidyVF.js",
+      "author" : "Zokou-Devs"
     }
   ],
   "pluginsVE": [
@@ -73,6 +79,12 @@
       "desc": "Put a not-cropped image on your whatsapp profil or group pic",
       "author": "Zokou-Devs",
       "url": "https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/f50fff6ce738190d85643806a84c6fda0502959c/fullppVE.js"
+    },
+    {
+      "name": "tubidy Downloader",
+      "desc" : "Download videos and audios from tubidy",
+      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/b719ae5240bc4cd2d8082aea7b0bbb91/raw/349b691f8f2961ffac87e11ffd655158f87e87e0/tubidyVE.js",
+      "author" : "Zokou-Devs"
     }
   ]
 }
