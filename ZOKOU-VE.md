@@ -63,23 +63,12 @@ https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6
 ---
 
 
-<h4 align="center"> Catbox </h1>
-
-  Description : Upload  image , video and audio on catbox and get a link
-
-```
-https://gist.githubusercontent.com/Luffy2ndAccount/d17e8434d5dbf330cc603a0f60d91c5a/raw/6fc3951b624e956c0af74013f1023d3ac387f338/catboxVE.js
-```
-- Author : Zokou-Devs
----
-
-
 <h4 align="center"> Fullpp </h1>
 
   Description : Put a not-cropped image on your whatsapp profil or group pic
 
 ```
-https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/f50fff6ce738190d85643806a84c6fda0502959c/fullppVE.js
+https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/5774832c59dcdbf3817d4fbd1caf6b2f95a76830/fullppVE.js
 ```
 - Author : Zokou-Devs
 ---

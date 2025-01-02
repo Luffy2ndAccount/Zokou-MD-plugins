@@ -52,17 +52,6 @@ https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb
 ---
 
 
-<h4 align="center"> Catbox </h1>
-
-  Description : Uploader des images , video , audio sur catbox et obtenir leurs liens
-
-```
-https://gist.githubusercontent.com/Luffy2ndAccount/e74747543efc88c5f027b350fd644034/raw/c3bf520f9f25bd08f8915ae28a39f62edf3d8a71/catboxVF.js
-```
-- Auteur : Zokou-Devs
----
-
-
 <h4 align="center"> FAMOUS_PACK1 </h1>
 
   Description : Un super pack de plugins préparer pour vous
@@ -79,7 +68,7 @@ https://gist.githubusercontent.com/Famous-Tech/5da335a245c92e6e3c5283da5cbecbe9/
   Description : Vous permets de mettre une image en taille reel sur votre photo de profile , et vos groupes whatsapp
 
 ```
-https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509e2c/raw/1b8285bf22963be908b6403295858180184d6f90/fullppVF.js
+https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509e2c/raw/7c2c80fec720fd8556f781b0b2825518889b75aa/fullppVF.js
 ```
 - Auteur : Zokou-Devs
 ---
