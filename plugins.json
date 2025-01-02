@@ -25,12 +25,6 @@
       "author": "Zokou-devs"
     },
     {
-      "name": "Catbox",
-      "desc": "Uploader des images , video , audio sur catbox et obtenir leurs liens",
-      "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/e74747543efc88c5f027b350fd644034/raw/c3bf520f9f25bd08f8915ae28a39f62edf3d8a71/catboxVF.js"
-    },
-    {
       "name": "FAMOUS_PACK1",
       "desc": "Un super pack de plugins préparer pour vous",
       "author": "FAMOUS-TECH",
@@ -40,7 +34,7 @@
       "name": "Fullpp",
       "desc": "Vous permets de mettre une image en taille reel sur votre photo de profile , et vos groupes whatsapp",
       "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509e2c/raw/1b8285bf22963be908b6403295858180184d6f90/fullppVF.js"
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509e2c/raw/7c2c80fec720fd8556f781b0b2825518889b75aa/fullppVF.js"
     },
     {
       "name": "Tictactoe",
@@ -105,16 +99,10 @@
       "author": "Zokou-devs"
     },
     {
-      "name": "Catbox",
-      "desc": "Upload  image , video and audio on catbox and get a link",
-      "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/d17e8434d5dbf330cc603a0f60d91c5a/raw/6fc3951b624e956c0af74013f1023d3ac387f338/catboxVE.js"
-    },
-    {
       "name": "Fullpp",
       "desc": "Put a not-cropped image on your whatsapp profil or group pic",
       "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/f50fff6ce738190d85643806a84c6fda0502959c/fullppVE.js"
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/5774832c59dcdbf3817d4fbd1caf6b2f95a76830/fullppVE.js"
     },
     {
       "name": "tubidy Downloader",
